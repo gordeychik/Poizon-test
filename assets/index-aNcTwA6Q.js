@@ -102,12 +102,12 @@ Error generating stack: `+i.message+`
   }
 `,_1=vt.button`
   margin-top: 20px;
-  padding: 10px 20px;
+  padding: 2px 4px;
   font-size: 2em;
   cursor: pointer;
   background-color: transparent;
   border: none;
-  border-radius: 5px;
+  border-radius: 50%;
   color: #fff;
   transition: transform 0.2s;
   
